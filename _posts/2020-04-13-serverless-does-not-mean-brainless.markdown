@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Serverless does not mean Brainless / an open letter to my dear IT admins Colleagues"
+title: "Serverless does not mean Brainless / an open letter to my dear IT admins Colleagues"
 description: Serverless vs Brainless
-date:   2020-04-13 15:00:00
+date: 2020-04-13 15:00:00
 categories: IT
 ---
 Last night, I stumbled on this very simple hands on introduction to LAMBDA: 

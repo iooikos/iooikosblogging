@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "AI to the test"
-description: How I wrote an article in minutes
-date:   2020-04-13 16:00:00
+title: "AI to the test"
+date: 2020-04-13 16:00:00
 categories: General
 ---
 Last week, I did a 5-day « write-athon” on AI.  

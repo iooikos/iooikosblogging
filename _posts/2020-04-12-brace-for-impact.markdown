@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Brace for Impact"
-description: This has been a too long time
 date: 2020-04-12 14:00:00
 categories: General
 ---
@@ -47,4 +46,3 @@ We fear what we can’t see, but this time, thanks to instantaneous media madnes
 It is an incredible moment for awareness and self-control. While we saw panic in the food departments (vital tomato sauce 😊), this proves we are not ready yet. 
 
 At least, be smart, think about it! and most of all: be safe
-
