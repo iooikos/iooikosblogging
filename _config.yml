@@ -11,7 +11,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: iooikos Blog
+  title: Yann Tromeur
   tagline: Geek & CEO
   date_format: "%b %-d, %Y"
   style: black
