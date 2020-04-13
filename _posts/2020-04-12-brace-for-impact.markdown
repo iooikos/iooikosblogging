@@ -2,7 +2,7 @@
 layout: post
 title:  "Brace for Impact"
 description: This has been a too long time
-date:   2020-04-12 14:00:00
+date: 2020-04-12 14:00:00
 categories: General
 ---
 This has been a too long time.
