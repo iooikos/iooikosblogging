@@ -1,10 +1,9 @@
----
+--
 layout: post
-title: "Covid-19, Une nouvelle étape dans la histoire du Cloud naissant"
-description: Une nouvelle étape
-date: 2020-04-13 15:00:00
+title:  "Covid-19, une nouvelle étape dans l'histoire du Cloud naissant"
+date: 2020-04-12 14:00:00
 categories: General
----
+--- 
 L'effort pour maintenir les opérations pendant la pandémie COVID-19 place le Cloud au centre de la scène pour de nombreuses organisations. Jusqu'à présent, l'impact de la pandémie s'est davantage concentré sur le travail à distance que sur une migration plus rapide vers le Cloud. 
 
 Les entreprises sont désormais confrontées à un scénario catastrophe devenu réalité qui montre la valeur de pouvoir évoluer à tout moment avec le cloud: pour s'adapter au travail à distance ou pour exécuter plus de charges de travail sur le cloud public si les centres de données font face à des réductions de personnel. 

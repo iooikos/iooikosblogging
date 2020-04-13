@@ -1,7 +1,7 @@
----
+--
 layout: post
-title: "AI to the test"
-date: 2020-04-13 16:00:00
+title:  "AI to the test"
+date: 2020-04-12 14:00:00
 categories: General
 ---
 Last week, I did a 5-day « write-athon” on AI.  
