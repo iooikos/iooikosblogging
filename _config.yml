@@ -15,7 +15,7 @@ texture:
   tagline: Geek & CEO
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
