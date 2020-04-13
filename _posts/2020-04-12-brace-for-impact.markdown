@@ -5,11 +5,16 @@ description: This has been a too long time
 date:   2020-04-12 14:00:00
 categories: General
 ---
-This has been a too long time
-Like most of you, I have been busy. Iooikos grew a lot last year expanding our services to UK and building bigger projects than the previous two years
-I will be probably writing a bit about our smart projects in the next weeks as the products and services start to unfold
-Iooikos is nearing its third birthday, we had our first employee last year and have been starting new collaborations
-Lots of hours spent here and abroad, planning and deploying – I have been busy and was kept away from other occupations like keeping this blog alive
+This has been a too long time.
+
+Like most of you, I have been busy. Iooikos grew a lot last year expanding our services to UK and building bigger projects than the previous two years.
+
+I will be probably writing a bit about our smart projects in the next weeks as the products and services start to unfold.
+
+Iooikos is nearing its third birthday, we had our first employee last year and have been starting new collaborations.
+
+Lots of hours spent here and abroad, planning and deploying – I have been busy and was kept away from other occupations like keeping this blog alive.
+
 Thanks to old and new customers. Thanks for your trust!
 
 With the current event, we have been dealing with lots of demands for smart and secure access to IT resources from our customers.
