@@ -1,7 +1,7 @@
 title: iooikos Blog
 author: iooikos-ludo
 email: ludovic.saas@iooikos.com
-description: Yann is passionate about IT stuff. He is blogging about it here.
+description: Yann is passionate about IT. He is blogging about this stuff here.
 show_excerpts: true 
 # set to true to show excerpts on the homepage
 
@@ -13,15 +13,15 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Yann Tromeur
-  tagline: Geek & CEO
+  tagline: Geek & Poke
   date_format: "%b %-d, %Y"
-  style: black
+  style: red
   showNav: true
   showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: yanntromeur
+    twitter: iooikos
     github:  iooikos-yann
     linkedIn: in/yann.tromeur
     rss: rss
