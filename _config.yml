@@ -2,7 +2,8 @@ title: iooikos Blog
 author: iooikos-ludo
 email: ludovic.saas@iooikos.com
 description: Yann is passionate about IT stuff. He is blogging about it here.
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: true 
+# set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
