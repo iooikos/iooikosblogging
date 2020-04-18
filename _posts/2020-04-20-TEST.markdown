@@ -2,7 +2,7 @@
 layout: post
 title: "Grosses Teubs""
 date: 2020-04-20 00:00:00
-categories: General, TEUBS, GROSSES
+categories: TEUBS
 ---
 THIS IS TEST
 
