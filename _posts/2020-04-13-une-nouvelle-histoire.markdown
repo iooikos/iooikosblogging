@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Covid-19, une nouvelle étape dans l'histoire du Cloud naissant"
 date: 2020-04-12 14:00:00
