@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait 2 secs"
+title:  "Wait two secs"
 date: 2020-04-30 22:00:00
 categories: General
 --- 
